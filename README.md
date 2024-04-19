@@ -15,8 +15,8 @@
 - **Iconos**: Agregados para mejorar la estética y usabilidad.
 - **Imágenes**: Mostrar capturas de pantalla, logos, etc.
 - **Enlaces a Redes Sociales**: Conecta conmigo en:
-  - [Twitter](#)
-  - [LinkedIn](#)
+  - [Twitter](https://twitter.com/victor_ml8)
+  - [LinkedIn](https://www.linkedin.com/in/victor-martinez-lopez-b55a43267/)
   - [Instagram](#)
 - **Tablas**: Para organizar información de manera estructurada.
 
